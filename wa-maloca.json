@@ -24252,22 +24252,8 @@
                 }]
         }, 
         {
-         "columns":20,
-         "firstgid":48655,
-         "image":"assets\/Ship\/SmallShip.png",
-         "imageheight":400,
-         "imagewidth":645,
-         "margin":0,
-         "name":"SmallShip",
-         "spacing":0,
-         "tilecount":240,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
-        {
          "columns":64,
-         "firstgid":48895,
+         "firstgid":48655,
          "image":"assets\/Lights and Dark.png",
          "imageheight":2048,
          "imagewidth":2048,
